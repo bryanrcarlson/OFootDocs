@@ -1,4 +1,4 @@
-# OFootDocs
+# OFoot Docs
 Documentation for OFoot, a carbon footprint tool for organic farms
 
 ## Purpose
